@@ -8,6 +8,7 @@ const path = require("path");
 var bodyParser = require('body-parser');
 
 // Base URL for the API
+//const base_url =  "http://localhost:3000";
 // const base_url = 'http://api.example.com';
 const base_url = 'http://node56991-phuwadon-noderest.proen.app.ruk-com.cloud';
 
